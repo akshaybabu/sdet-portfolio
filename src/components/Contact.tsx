@@ -265,7 +265,7 @@ export default function Contact() {
           <span>© {new Date().getFullYear()} Akshay Babu Anthoorveettil. All Rights Reserved.</span>
           <div className="flex items-center space-x-1.5">
             <span className="h-2 w-2 rounded-full bg-[#00ff9d]" />
-            <span>Compiled via React & Vite Client Stack</span>
+            <span>AkshayBabu AV</span>
           </div>
         </div>
 
